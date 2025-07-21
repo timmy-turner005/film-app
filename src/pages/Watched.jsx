@@ -1,5 +1,5 @@
 function Watched() {
-  return <h3>There are no movies seen yet...</h3>;
+  return <h3>The movies you watch will appear here...</h3>;
 }
 
 export default Watched;
